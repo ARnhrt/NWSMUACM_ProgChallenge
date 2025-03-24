@@ -3,5 +3,5 @@
 - Palindrome Checker
 - Hangman
 - Legally Distinct Cowsay
-- ASCII Printer
+- [ASCII Art Printer](ASCII.md)
 - Caeser Cipher Encoder/Decorder
