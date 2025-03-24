@@ -2,7 +2,7 @@
 ### Points: 3
 Create a program that will take string as an input and output the string as ASCII art characters. <br>
 ****
-**Example:**
+**Example:** <br>
 Input: <br>
 `Hello World` <br>
 Output:
