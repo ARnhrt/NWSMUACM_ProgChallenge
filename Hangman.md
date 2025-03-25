@@ -7,7 +7,7 @@ Write a program that will:
 - Take a series of single letter inputs from a user
 - Check if the letter is in that word
   - If yes, print the string with the selected letter filled in <br>
-    Ex: if the word is <br>
+    Ex: if the word is **orchestra**<br>
     `Enter letter:`**`r`**<br>
     `*r*****ra`
   - If not, the player will use a life
